@@ -3,6 +3,7 @@
 Atlas 제품군의 **배포 전용 채널**입니다. 소스는 private 리포(atlas-forge · atlas-react · atlas-studio)에 있고,
 각 리포의 GitHub Actions 가 태그 push 시 빌드 산출물만 이 리포의 [Releases](../../releases) 로 올립니다.
 이 리포에는 코드가 없습니다 — Release asset 이 전부입니다.
+atlas-studio 및 atlas-forge는 버그 픽스가 어느 정도 되면 오픈 소스로 전환할 예정입니다.
 
 ## Release 태그 규칙
 
